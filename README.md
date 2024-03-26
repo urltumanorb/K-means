@@ -22,5 +22,7 @@ import matplotlib.pyplot as plt
 
 ## Dataset
 In this lab, I will use a list data and an image.
+
 <img width="244" alt="image" src="https://github.com/urltumanorb/K-means/assets/24932621/8282c64e-b6c2-4352-9379-2b577d568204">
+
 <img width="435" alt="image" src="https://github.com/urltumanorb/K-means/assets/24932621/f48280d0-5e5e-4122-a33f-5d9cbe4ee958">
